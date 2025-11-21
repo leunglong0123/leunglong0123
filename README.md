@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NextJS, Python**
 
-- 📫 How to reach me **leunglong2000.ca@gmail.com**
+- 📫 How to reach me **kalong.leung0123@gmail.com**
 
 - ⚡ Fun fact **I play guitar**
 
